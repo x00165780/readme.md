@@ -1,0 +1,68 @@
+body {
+	font-family:Verdana, Arial, sans-serif;
+	background-color: #A66A00;
+}
+
+#container { 
+	background-color: #FFDC73; 
+}
+
+#header { 
+	background-image: url(../images/logo.png);
+	background-repeat: no-repeat;
+	background-color: #FFBF00;
+}
+
+#nav { 
+
+}
+
+#content {  
+	overflow: auto;
+	background-color: #ffffff;
+}
+
+#footer {
+	background-color: #FF9200;
+}
+
+h2 {
+	text-align: left;
+	color: #A66A00;
+	padding-left: 15%;
+
+
+	
+
+}
+
+p { 
+	text-align:left;
+	padding-left: 15%;
+}
+
+img{
+	position: relative;
+  left: 70%;
+  border: 3px 
+}
+#nav ul { 
+
+}
+
+#nav a {
+	display: block;
+	background-color: #FFCF40;	
+}
+
+#nav a:link {
+
+}
+
+#nav a:visited {
+
+}
+
+#nav a:hover {
+
+}
